@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=start_cam
+Exec=/home/pi/RPI_Cam/start_cam.sh
+Comment=
+Terminal=true
+Icon=gnome-panel-launcher
+Type=Application
+StartupNotify=true
